@@ -48,3 +48,4 @@ char *gettingThePath(char *arg)
 	}
 	return (NULL);
 }
+

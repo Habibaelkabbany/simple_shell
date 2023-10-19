@@ -128,3 +128,4 @@ int validate_command(char **argv)
 	}
 	return (0);
 }
+
